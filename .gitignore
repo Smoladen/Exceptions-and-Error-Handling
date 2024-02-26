@@ -1,5 +1,6 @@
 # This file is used to ignore files which are generated
 # ----------------------------------------------------------------------------
+Debug
 build*
 *~
 *.autosave
@@ -50,16 +51,16 @@ CMakeLists.txt.user*
 *.idb
 *.ilk
 *.pdb
-*.sln
+#*.sln
 *.suo
 *.vcproj
 *vcproj.*.*.user
 *.ncb
 *.sdf
 *.opensdf
-*.vcxproj
+#*.vcxproj
 *vcxproj.*
-
+*.vs
 # MinGW generated files
 *.Debug
 *.Release
